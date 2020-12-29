@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/newshahn/microservices-in-nodejs/issues"
   },
-  "homepage": "https://github.com/newshahn/microservices-in-nodejs#readme"
+  "homepage": "https://github.com/newshahn/microservices-in-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
 }
