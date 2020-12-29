@@ -1,0 +1,19 @@
+{
+  "name": "microservices-in-nodejs",
+  "version": "1.0.0",
+  "description": "Following a tutorial on microservices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newshahn/microservices-in-nodejs.git"
+  },
+  "author": "Newsha Hosseiny Nik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newshahn/microservices-in-nodejs/issues"
+  },
+  "homepage": "https://github.com/newshahn/microservices-in-nodejs#readme"
+}
